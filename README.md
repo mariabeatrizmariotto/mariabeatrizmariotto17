@@ -9,3 +9,5 @@ Meu nome é Maria Beatriz
 ### Você entrar em contato comigo ⬇️
 
 📧 m.affonso@escola.pr.gov.br
+
+![image](https://github.com/user-attachments/assets/f160b57a-401d-4aa6-b0e8-325e651c7d7e)
